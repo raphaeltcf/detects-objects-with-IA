@@ -1,0 +1,5 @@
+# Env
+.env
+myvenv/
+venv/
+gui_buttons.py
